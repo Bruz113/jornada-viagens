@@ -14,15 +14,15 @@ width: 68px;
 height: 64%;
 }
 
-.logo-mobile {
+.img-mobile {
     display: block;
 }
 
-.logo-desktop {
+.img-desktop {
     display: none;
 }
 
-.nagivation-menu {
+.navigation-menu {
     margin-top: 24px;
 }
 
